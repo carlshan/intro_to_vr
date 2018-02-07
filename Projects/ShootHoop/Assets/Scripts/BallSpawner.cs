@@ -24,7 +24,7 @@ public class BallSpawner : MonoBehaviour {
     void Start()
     {
 		cam = GetComponentInChildren<Camera> ();
-		ballSpeed = 20.0f;	
+		ballSpeed = 15.0f;	
     }
 		
 	
